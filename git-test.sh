@@ -3,6 +3,7 @@
 
 sudo apt-get update
 sudo apt-get upgrade
+sudo apt install cmake
 
 sudo git clone https://github.com/merbanan/rtl_433.git
 cd rtl_433
